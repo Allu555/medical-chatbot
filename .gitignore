@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Environment
+.env
+
+# Large data files & datasets
+data/raw/
+data/processed/
+data/train/
+data/validation/
+data/test/
+*.csv
+*.arrow
+
+# Large model artifacts
+artifacts/model/*
+!artifacts/model/.gitkeep
+artifacts/checkpoints/*
+!artifacts/checkpoints/.gitkeep
+artifacts/faiss/*.faiss
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+!notebooks/ai_medical_chatbot_colab.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+wandb/
+runs/

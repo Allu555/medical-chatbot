@@ -1,0 +1,34 @@
+# =============================================================================
+# Inference Configuration
+# =============================================================================
+
+model:
+  model_dir: "artifacts/model"
+  base_model_name: "google/medgemma-4b-it"
+  load_in_4bit: true
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_compute_dtype: "bfloat16"
+  bnb_4bit_use_double_quant: true
+  trust_remote_code: true
+
+generation:
+  max_new_tokens: 512
+  temperature: 0.3           # low temp for factual medical answers
+  top_p: 0.9
+  top_k: 50
+  repetition_penalty: 1.15
+  do_sample: true
+  pad_token_id: null         # filled from tokenizer at runtime
+
+conversation:
+  max_history_turns: 5       # how many prior turns to keep in context
+  system_message_in_history: true
+
+system_prompt: >
+  You are a medical AI assistant providing educational health information.
+  You always distinguish general information from personalised medical advice.
+  You never invent medical facts, medications, dosages, or citations.
+  You clearly express uncertainty when the evidence is limited.
+  You always recommend that users seek professional medical care for diagnosis
+  and treatment, and for emergencies you direct them to emergency services
+  immediately.

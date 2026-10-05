@@ -1,0 +1,42 @@
+# =============================================================================
+# RAG Configuration
+# =============================================================================
+
+embedding:
+  model_name: "BAAI/bge-small-en-v1.5"
+  # Alternatives evaluated:
+  #   - "BAAI/bge-base-en-v1.5"         (stronger, 2× larger)
+  #   - "pritamdeka/S-PubMedBert-MS-MARCO" (medical domain, MARCO-tuned)
+  #   - "sentence-transformers/all-MiniLM-L6-v2" (fast, general)
+  batch_size: 64
+  normalize_embeddings: true
+
+chunking:
+  chunk_size: 400            # characters - tuned for fast cross-encoder scoring and concise responses
+  chunk_overlap: 50          # characters
+  min_chunk_size: 80         # discard very short chunks
+
+retrieval:
+  top_k: 5
+  score_threshold: 0.35      # cosine similarity cutoff
+  rerank: true               # lightweight cross-encoder reranking
+
+faiss:
+  index_type: "Flat"         # "Flat" (exact) or "IVF" (approx, faster)
+  index_path: "artifacts/faiss/index.faiss"
+  metadata_path: "artifacts/faiss/metadata.json"
+  nlist: 100                 # only used for IVF
+
+knowledge_base:
+  documents_dir: "knowledge_base/documents"
+  processed_dir: "knowledge_base/processed"
+  sources:
+    - name: "MedlinePlus Health Topics"
+      url: "https://medlineplus.gov/healthtopics.html"
+      category: "general"
+    - name: "CDC Health Topics"
+      url: "https://www.cdc.gov/az/index.html"
+      category: "public_health"
+    - name: "WHO Fact Sheets"
+      url: "https://www.who.int/news-room/fact-sheets"
+      category: "global_health"

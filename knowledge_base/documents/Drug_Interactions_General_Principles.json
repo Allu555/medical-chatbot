@@ -1,0 +1,10 @@
+{
+  "title": "Drug Interactions: General Principles",
+  "source": "FDA / MedlinePlus",
+  "url": "https://www.fda.gov/consumers/consumer-updates/understanding-over-counter-medicines",
+  "date": "2024",
+  "text": "Drug interactions occur when one medication affects how another works,\nor when food/substances interact with medications.\n\nTypes of drug interactions:\n- Drug-drug interactions: two or more medications interact\n- Drug-food interactions: food alters drug absorption or metabolism\n- Drug-condition interactions: a medical condition makes a drug harmful\n\nImportant examples:\n- Warfarin interacts with many drugs and foods (especially vitamin K-rich foods)\n- St John's Wort reduces effectiveness of many medications\n- Grapefruit juice inhibits enzymes that metabolise many drugs\n- MAOIs interact dangerously with many drugs and foods\n\nAlways tell your doctor and pharmacist about ALL medications, supplements,\nvitamins, and herbal products you take.\n\nTHIS AI CANNOT PROVIDE ACCURATE PERSONALISED DRUG INTERACTION CHECKS.\nFor drug interaction verification, always consult a pharmacist or doctor,\nor use an authoritative drug interaction checker tool.\n",
+  "category": "pharmacology",
+  "chunk_id": 0,
+  "total_chunks": 1
+}

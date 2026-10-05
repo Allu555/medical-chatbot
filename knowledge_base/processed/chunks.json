@@ -1,0 +1,392 @@
+[
+  {
+    "title": "Chest Pain: When Is It an Emergency?",
+    "source": "American Heart Association",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+    "date": "2024",
+    "text": "Chest pain must always be taken seriously. While many causes are benign (muscle strain, acid reflux, anxiety), chest pain can indicate a life-threatening condition.",
+    "category": "emergency",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Chest Pain: When Is It an Emergency?",
+    "source": "American Heart Association",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+    "date": "2024",
+    "text": "CALL EMERGENCY SERVICES IMMEDIATELY (911) for: - Chest pain with pressure, squeezing, tightness, or fullness - Pain radiating to arm, jaw, neck, shoulder, or back - Chest pain with shortness of breath - Chest pain with sweating, nausea, or vomiting - Sudden severe chest pain at rest - Chest pain with fainting or near-fainting - Chest pain lasting more than a few minutes or coming and going These may indicate heart attack, pulmonary embolism (blood clot in lungs), aortic dissection, or other emergencies.",
+    "category": "emergency",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Chest Pain: When Is It an Emergency?",
+    "source": "American Heart Association",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+    "date": "2024",
+    "text": "Do not drive yourself to the hospital. Call emergency services. Less urgent causes include: acid reflux / heartburn, costochondritis (chest wall inflammation), pleuritis, anxiety/panic attacks, or musculoskeletal pain. Even if you suspect a benign cause, seek medical evaluation for new or unusual chest pain.",
+    "category": "emergency",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Common Cold: Symptoms, Causes, and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/commoncold.html",
+    "date": "2024",
+    "text": "The common cold is a viral infection of the upper respiratory tract. It is caused by over 200 different viruses, most commonly rhinoviruses. Symptoms typically include runny or stuffy nose, sore throat, cough, sneezing, mild headache, mild body aches, and low-grade fever (more common in children). Symptoms usually appear 1-3 days after exposure and last 7-10 days. Treatment is supportive.",
+    "category": "respiratory",
+    "chunk_id": 0,
+    "total_chunks": 2
+  },
+  {
+    "title": "Common Cold: Symptoms, Causes, and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/commoncold.html",
+    "date": "2024",
+    "text": "Treatment is supportive. Rest, fluids, and over-the-counter medications may relieve symptoms. Antibiotics are NOT effective against viral infections. See a doctor if symptoms are severe, last more than 10 days, or include high fever, severe headache, chest pain, or difficulty breathing.",
+    "category": "respiratory",
+    "chunk_id": 1,
+    "total_chunks": 2
+  },
+  {
+    "title": "Dehydration: Causes, Symptoms, and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/dehydration.html",
+    "date": "2024",
+    "text": "Dehydration occurs when the body loses more fluids than it takes in. Even mild dehydration can affect physical and mental performance. Common causes: inadequate fluid intake, excessive sweating, diarrhea, vomiting, fever, frequent urination, burns, or hot weather.",
+    "category": "general",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Dehydration: Causes, Symptoms, and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/dehydration.html",
+    "date": "2024",
+    "text": "Mild to moderate symptoms: thirst, dry mouth, dark yellow urine, decreased urine output, headache, dizziness, fatigue, dry skin, muscle cramps. Severe symptoms: very dark or no urine, rapid heartbeat, rapid breathing, sunken eyes, no tears when crying, confusion, fainting. Treatment for mild dehydration: oral rehydration with water or electrolyte solutions. Avoid caffeinated or alcoholic drinks.",
+    "category": "general",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Dehydration: Causes, Symptoms, and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/dehydration.html",
+    "date": "2024",
+    "text": "Avoid caffeinated or alcoholic drinks. Seek emergency care for: severe confusion, no urine output for 8+ hours, fainting, severe diarrhea/vomiting that prevents fluid intake, suspected heatstroke. Daily fluid needs vary: approximately 8 cups (2 litres) for adults in normal conditions, more with exercise, heat, illness, or pregnancy.",
+    "category": "general",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Drug Interactions: General Principles",
+    "source": "FDA / MedlinePlus",
+    "url": "https://www.fda.gov/consumers/consumer-updates/understanding-over-counter-medicines",
+    "date": "2024",
+    "text": "Drug interactions occur when one medication affects how another works, or when food/substances interact with medications.",
+    "category": "pharmacology",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Drug Interactions: General Principles",
+    "source": "FDA / MedlinePlus",
+    "url": "https://www.fda.gov/consumers/consumer-updates/understanding-over-counter-medicines",
+    "date": "2024",
+    "text": "Types of drug interactions: - Drug-drug interactions: two or more medications interact - Drug-food interactions: food alters drug absorption or metabolism - Drug-condition interactions: a medical condition makes a drug harmful Important examples: - Warfarin interacts with many drugs and foods (especially vitamin K-rich foods) - St John's Wort reduces effectiveness of many medications - Grapefruit juice inhibits enzymes that metabolise many drugs - MAOIs interact dangerously with many drugs and foods Always tell your doctor and pharmacist about ALL medications, supplements, vitamins, and herbal products you take.",
+    "category": "pharmacology",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Drug Interactions: General Principles",
+    "source": "FDA / MedlinePlus",
+    "url": "https://www.fda.gov/consumers/consumer-updates/understanding-over-counter-medicines",
+    "date": "2024",
+    "text": "THIS AI CANNOT PROVIDE ACCURATE PERSONALISED DRUG INTERACTION CHECKS. For drug interaction verification, always consult a pharmacist or doctor, or use an authoritative drug interaction checker tool.",
+    "category": "pharmacology",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Fever: Causes, Management, and When to See a Doctor",
+    "source": "Mayo Clinic / CDC",
+    "url": "https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759",
+    "date": "2024",
+    "text": "A fever is a temporary rise in body temperature, usually in response to illness. Normal body temperature is approximately 37°C (98.6°F), though this varies by person. A fever is generally defined as a temperature above 38°C (100.4°F). Common causes: viral infections (colds, flu, COVID-19), bacterial infections, heat exhaustion, certain medications, inflammatory conditions.",
+    "category": "general",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Fever: Causes, Management, and When to See a Doctor",
+    "source": "Mayo Clinic / CDC",
+    "url": "https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759",
+    "date": "2024",
+    "text": "Mild fever management: rest, adequate fluid intake, over-the-counter antipyretics (paracetamol/acetaminophen or ibuprofen) if needed to relieve discomfort. Fever is part of the immune response — not always necessary to suppress.",
+    "category": "general",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Fever: Causes, Management, and When to See a Doctor",
+    "source": "Mayo Clinic / CDC",
+    "url": "https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759",
+    "date": "2024",
+    "text": "Seek prompt medical care for: - Fever above 39.4°C (103°F) in adults - Fever with severe headache, stiff neck, confusion, or rash (possible meningitis) - Fever with difficulty breathing, chest pain, or severe abdominal pain - Fever lasting more than 3 days - Any fever in a baby under 3 months old — seek emergency care - Fever with recent travel to areas with tropical disease risk Do not give aspirin to children or teenagers with fever (risk of Reye's syndrome).",
+    "category": "general",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Hypertension (High Blood Pressure): Overview",
+    "source": "American Heart Association / CDC",
+    "url": "https://www.cdc.gov/bloodpressure/index.html",
+    "date": "2024",
+    "text": "High blood pressure (hypertension) is when blood pressure consistently reads 130/80 mmHg or higher. It is called the \"silent killer\" because it often has no symptoms. Normal blood pressure: below 120/80 mmHg. Elevated: 120-129 systolic and less than 80 diastolic. Stage 1 hypertension: 130-139/80-89 mmHg. Stage 2 hypertension: 140/90 mmHg or higher.",
+    "category": "cardiovascular",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Hypertension (High Blood Pressure): Overview",
+    "source": "American Heart Association / CDC",
+    "url": "https://www.cdc.gov/bloodpressure/index.html",
+    "date": "2024",
+    "text": "Stage 2 hypertension: 140/90 mmHg or higher. Hypertensive crisis: above 180/120 mmHg — seek emergency care. Causes: include genetics, obesity, high sodium diet, physical inactivity, excessive alcohol, chronic kidney disease, and certain medications. Long-term complications include heart attack, stroke, kidney disease, heart failure, and vision problems.",
+    "category": "cardiovascular",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Hypertension (High Blood Pressure): Overview",
+    "source": "American Heart Association / CDC",
+    "url": "https://www.cdc.gov/bloodpressure/index.html",
+    "date": "2024",
+    "text": "Lifestyle management: reducing sodium intake, regular physical activity, maintaining healthy weight, limiting alcohol, not smoking. Many people require medication. Never stop blood pressure medication without consulting a doctor. Multiple medication classes exist (ACE inhibitors, ARBs, calcium channel blockers, diuretics, etc.) — selection depends on individual patient factors.",
+    "category": "cardiovascular",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Ibuprofen: Uses, Side Effects, and Safety",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/druginfo/meds/a682159.html",
+    "date": "2024",
+    "text": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce fever, and decrease inflammation. Common uses: headaches, toothaches, menstrual cramps, muscle aches, minor arthritis, back pain, and fever. Common side effects: stomach upset, nausea, heartburn, dizziness, headache. Taking with food or milk reduces stomach upset.",
+    "category": "pharmacology",
+    "chunk_id": 0,
+    "total_chunks": 4
+  },
+  {
+    "title": "Ibuprofen: Uses, Side Effects, and Safety",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/druginfo/meds/a682159.html",
+    "date": "2024",
+    "text": "Taking with food or milk reduces stomach upset. Serious risks: gastrointestinal bleeding or ulcers (especially with long-term use), kidney damage (especially with dehydration or pre-existing kidney disease), increased cardiovascular risk (heart attack, stroke) with long-term use or high doses, allergic reactions.",
+    "category": "pharmacology",
+    "chunk_id": 1,
+    "total_chunks": 4
+  },
+  {
+    "title": "Ibuprofen: Uses, Side Effects, and Safety",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/druginfo/meds/a682159.html",
+    "date": "2024",
+    "text": "Do not take ibuprofen if you have: active stomach ulcers, severe kidney or liver disease, aspirin-sensitive asthma, or are in the last trimester of pregnancy without medical advice. Drug interactions: blood thinners (warfarin), other NSAIDs, certain blood pressure medications, lithium, and others. Always check with a pharmacist or doctor.",
+    "category": "pharmacology",
+    "chunk_id": 2,
+    "total_chunks": 4
+  },
+  {
+    "title": "Ibuprofen: Uses, Side Effects, and Safety",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/druginfo/meds/a682159.html",
+    "date": "2024",
+    "text": "Always check with a pharmacist or doctor. Standard adult dose information is on the package; do not exceed recommended doses. Always read the label and consult a pharmacist or doctor if uncertain. THIS IS GENERAL INFORMATION ONLY. Dosing decisions should be made with a healthcare provider.",
+    "category": "pharmacology",
+    "chunk_id": 3,
+    "total_chunks": 4
+  },
+  {
+    "title": "Influenza (Flu): Symptoms, Complications, and Prevention",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/flu/symptoms/index.html",
+    "date": "2024",
+    "text": "Influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and can lead to hospitalisation or death. Symptoms of flu include sudden onset of fever (usually 100–104°F / 38–40°C), chills, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, and fatigue. Some people have vomiting and diarrhea (more common in children).",
+    "category": "respiratory",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Influenza (Flu): Symptoms, Complications, and Prevention",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/flu/symptoms/index.html",
+    "date": "2024",
+    "text": "Key difference from cold: flu symptoms are typically more severe and appear suddenly. Colds develop gradually. Complications include pneumonia, bronchitis, sinus infections, ear infections, and worsening of chronic conditions. Prevention: Annual flu vaccination is the best protection. Handwashing and avoiding close contact with sick individuals also helps.",
+    "category": "respiratory",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Influenza (Flu): Symptoms, Complications, and Prevention",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/flu/symptoms/index.html",
+    "date": "2024",
+    "text": "Antiviral medications (e.g., oseltamivir/Tamiflu) can reduce severity if started within 48 hours of symptom onset. These require a prescription. Seek medical care promptly for: difficulty breathing, persistent chest pain, confusion, severe vomiting, or symptoms that improve then return with fever/cough.",
+    "category": "respiratory",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Iron Deficiency Anemia: Symptoms and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/irondeficiencyanemia.html",
+    "date": "2024",
+    "text": "Iron deficiency anemia is the most common form of anemia worldwide. It occurs when the body does not have enough iron to produce hemoglobin. Common causes: inadequate dietary iron, poor absorption, blood loss (menstruation, gastrointestinal bleeding), or increased iron requirements (pregnancy, growth).",
+    "category": "hematology",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Iron Deficiency Anemia: Symptoms and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/irondeficiencyanemia.html",
+    "date": "2024",
+    "text": "Symptoms: fatigue, weakness, pale skin, cold hands/feet, brittle nails, dizziness, shortness of breath on exertion, headache, difficulty concentrating, rapid heartbeat, unusual cravings for non-nutritive substances (pica — ice, dirt). Diagnosis: complete blood count (CBC), serum ferritin, serum iron, transferrin saturation.",
+    "category": "hematology",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Iron Deficiency Anemia: Symptoms and Treatment",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/irondeficiencyanemia.html",
+    "date": "2024",
+    "text": "Treatment: dietary changes (red meat, leafy greens, legumes, fortified foods), vitamin C to enhance iron absorption, iron supplements (often cause constipation; take with food if needed), and treatment of underlying cause. Never self-diagnose and treat anemia. Blood tests are required for diagnosis. Unexplained anemia should be evaluated by a doctor to rule out serious causes.",
+    "category": "hematology",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Mental Health: Anxiety and Depression Overview",
+    "source": "NIMH / WHO",
+    "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+    "date": "2024",
+    "text": "Anxiety disorders and depression are among the most common mental health conditions. Anxiety disorders include generalised anxiety disorder (GAD), panic disorder, social anxiety disorder, specific phobias, and others. Common symptoms: persistent worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep problems, panic attacks.",
+    "category": "mental_health",
+    "chunk_id": 0,
+    "total_chunks": 4
+  },
+  {
+    "title": "Mental Health: Anxiety and Depression Overview",
+    "source": "NIMH / WHO",
+    "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+    "date": "2024",
+    "text": "Depression (major depressive disorder) symptoms: persistent low mood, loss of interest or pleasure, changes in appetite/weight, sleep disturbances, fatigue, feelings of worthlessness, difficulty concentrating, thoughts of death or suicide. Both conditions are treatable.",
+    "category": "mental_health",
+    "chunk_id": 1,
+    "total_chunks": 4
+  },
+  {
+    "title": "Mental Health: Anxiety and Depression Overview",
+    "source": "NIMH / WHO",
+    "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+    "date": "2024",
+    "text": "Both conditions are treatable. Treatment options include psychotherapy (cognitive behavioural therapy is well-evidenced), medications (antidepressants, anti-anxiety medications), lifestyle changes, and combinations. IMPORTANT: If you are having thoughts of suicide or self-harm, please seek immediate help. Contact a crisis line or emergency services.",
+    "category": "mental_health",
+    "chunk_id": 2,
+    "total_chunks": 4
+  },
+  {
+    "title": "Mental Health: Anxiety and Depression Overview",
+    "source": "NIMH / WHO",
+    "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+    "date": "2024",
+    "text": "Contact a crisis line or emergency services. Seeking professional mental health support is a sign of strength. A doctor, psychiatrist, or psychologist can help find the right treatment.",
+    "category": "mental_health",
+    "chunk_id": 3,
+    "total_chunks": 4
+  },
+  {
+    "title": "Persistent Cough: Causes and When to See a Doctor",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/cough.html",
+    "date": "2024",
+    "text": "A cough lasting more than 3 weeks is considered a persistent or chronic cough. Persistent cough is one of the most common reasons for medical visits.",
+    "category": "respiratory",
+    "chunk_id": 0,
+    "total_chunks": 2
+  },
+  {
+    "title": "Persistent Cough: Causes and When to See a Doctor",
+    "source": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/cough.html",
+    "date": "2024",
+    "text": "Common causes of persistent cough: - Postnasal drip from allergies or sinus problems - Gastroesophageal reflux disease (GERD) - Asthma (often presents as cough, especially at night) - ACE inhibitor medication side effect (very common) - Upper respiratory infection aftermath (post-viral cough) - Chronic obstructive pulmonary disease (COPD) — especially in smokers - Less commonly: pertussis (whooping cough), tuberculosis, lung cancer Red flags requiring urgent medical evaluation: - Coughing up blood (haemoptysis) — always urgent - Unintentional weight loss - Night sweats with cough - Persistent cough with fever and shortness of breath - Cough in a long-term smoker that changes character - Cough in immunocompromised individuals See a doctor if cough persists more than 3 weeks without obvious cause, or sooner if accompanied by concerning symptoms.",
+    "category": "respiratory",
+    "chunk_id": 1,
+    "total_chunks": 2
+  },
+  {
+    "title": "Sleep Hygiene: Tips for Better Sleep",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/sleep/about_sleep/sleep_hygiene.html",
+    "date": "2024",
+    "text": "Good sleep is essential for physical and mental health. Adults need 7-9 hours per night. Chronic poor sleep increases risk of obesity, diabetes, cardiovascular disease, and mental health problems.",
+    "category": "wellness",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Sleep Hygiene: Tips for Better Sleep",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/sleep/about_sleep/sleep_hygiene.html",
+    "date": "2024",
+    "text": "Evidence-based sleep hygiene recommendations: - Maintain a consistent sleep schedule (same bedtime and wake time, even weekends) - Keep bedroom cool, dark, and quiet - Avoid screens (phones, tablets, TVs) 30-60 minutes before bed - Avoid caffeine after early afternoon (caffeine half-life ~5-6 hours) - Avoid alcohol close to bedtime (disrupts sleep architecture) - Regular physical activity helps, but not vigorous exercise within 2-3 hours of sleep - Avoid large meals close to bedtime - Develop a relaxing pre-sleep routine Common sleep disorders include insomnia, obstructive sleep apnea, restless legs syndrome, and narcolepsy.",
+    "category": "wellness",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Sleep Hygiene: Tips for Better Sleep",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/sleep/about_sleep/sleep_hygiene.html",
+    "date": "2024",
+    "text": "These require medical evaluation. See a doctor if: sleep problems persist for weeks, you frequently wake unrefreshed, you snore loudly or stop breathing during sleep, or daytime sleepiness affects safety.",
+    "category": "wellness",
+    "chunk_id": 2,
+    "total_chunks": 3
+  },
+  {
+    "title": "Type 2 Diabetes: Symptoms, Causes, and Management",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/diabetes/basics/type2.html",
+    "date": "2024",
+    "text": "Type 2 diabetes is a condition where the body does not use insulin properly (insulin resistance) and eventually cannot make enough insulin. Risk factors: overweight, physical inactivity, family history, age over 45, prediabetes, gestational diabetes history, certain ethnicities.",
+    "category": "endocrine",
+    "chunk_id": 0,
+    "total_chunks": 3
+  },
+  {
+    "title": "Type 2 Diabetes: Symptoms, Causes, and Management",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/diabetes/basics/type2.html",
+    "date": "2024",
+    "text": "Symptoms: increased thirst and urination, unexplained weight loss, blurred vision, slow-healing wounds, frequent infections, numbness or tingling in hands/feet, fatigue. Many people have no symptoms initially. Diagnosis: fasting glucose ≥126 mg/dL, HbA1c ≥6.5%, or 2-hour glucose ≥200 mg/dL. Management: lifestyle changes (diet, exercise, weight management) are first-line.",
+    "category": "endocrine",
+    "chunk_id": 1,
+    "total_chunks": 3
+  },
+  {
+    "title": "Type 2 Diabetes: Symptoms, Causes, and Management",
+    "source": "CDC / NIH",
+    "url": "https://www.cdc.gov/diabetes/basics/type2.html",
+    "date": "2024",
+    "text": "Medications include metformin, SGLT2 inhibitors, GLP-1 agonists, and others. Some people with type 2 may require insulin over time. Complications: if uncontrolled — heart disease, stroke, kidney disease, neuropathy, retinopathy, foot complications. Type 1 diabetes is different: it is autoimmune, usually diagnosed in younger people, and always requires insulin. It is not caused by lifestyle.",
+    "category": "endocrine",
+    "chunk_id": 2,
+    "total_chunks": 3
+  }
+]

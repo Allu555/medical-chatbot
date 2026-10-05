@@ -1,0 +1,551 @@
+{
+  "avg_keyword_recall": 0.633,
+  "questions_evaluated": 30,
+  "top_k": 5,
+  "per_question": [
+    {
+      "question": "What are common symptoms of iron deficiency anemia?",
+      "expected_keywords": [
+        "fatigue",
+        "pale",
+        "weakness",
+        "breathless",
+        "iron"
+      ],
+      "found_keywords": [
+        "fatigue",
+        "pale",
+        "weakness",
+        "iron"
+      ],
+      "recall": 0.8,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What are the main symptoms of type 2 diabetes?",
+      "expected_keywords": [
+        "thirst",
+        "urination",
+        "fatigue",
+        "blurred",
+        "glucose"
+      ],
+      "found_keywords": [
+        "thirst",
+        "urination",
+        "fatigue",
+        "blurred",
+        "glucose"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "CDC / NIH"
+    },
+    {
+      "question": "What are signs of dehydration?",
+      "expected_keywords": [
+        "thirst",
+        "dark urine",
+        "dizziness",
+        "fatigue",
+        "dry"
+      ],
+      "found_keywords": [
+        "thirst",
+        "dizziness",
+        "fatigue",
+        "dry"
+      ],
+      "recall": 0.8,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What are symptoms of a stroke?",
+      "expected_keywords": [
+        "face drooping",
+        "arm weakness",
+        "speech",
+        "sudden",
+        "emergency"
+      ],
+      "found_keywords": [
+        "emergency"
+      ],
+      "recall": 0.2,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What are common side effects of ibuprofen?",
+      "expected_keywords": [
+        "stomach",
+        "nausea",
+        "heartburn",
+        "kidney",
+        "bleeding"
+      ],
+      "found_keywords": [
+        "stomach",
+        "nausea",
+        "heartburn",
+        "kidney",
+        "bleeding"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "Can ibuprofen be dangerous for the kidneys?",
+      "expected_keywords": [
+        "kidney",
+        "dehydration",
+        "risk",
+        "consult",
+        "doctor"
+      ],
+      "found_keywords": [
+        "kidney",
+        "dehydration",
+        "risk",
+        "doctor"
+      ],
+      "recall": 0.8,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What medications interact with warfarin?",
+      "expected_keywords": [
+        "interaction",
+        "bleeding",
+        "pharmacist",
+        "doctor",
+        "consult"
+      ],
+      "found_keywords": [
+        "interaction",
+        "pharmacist",
+        "doctor"
+      ],
+      "recall": 0.6,
+      "n_retrieved": 5,
+      "top_source": "FDA / MedlinePlus"
+    },
+    {
+      "question": "What is the difference between a cold and influenza?",
+      "expected_keywords": [
+        "sudden",
+        "fever",
+        "body aches",
+        "cold",
+        "flu"
+      ],
+      "found_keywords": [
+        "sudden",
+        "fever",
+        "body aches",
+        "cold",
+        "flu"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "CDC"
+    },
+    {
+      "question": "What does high blood pressure mean?",
+      "expected_keywords": [
+        "120",
+        "130",
+        "systolic",
+        "hypertension",
+        "silent"
+      ],
+      "found_keywords": [
+        "120",
+        "130",
+        "systolic",
+        "hypertension",
+        "silent"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "American Heart Association / CDC"
+    },
+    {
+      "question": "What is the difference between type 1 and type 2 diabetes?",
+      "expected_keywords": [
+        "autoimmune",
+        "insulin",
+        "lifestyle",
+        "type 1",
+        "type 2"
+      ],
+      "found_keywords": [
+        "autoimmune",
+        "insulin",
+        "lifestyle",
+        "type 1",
+        "type 2"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "CDC / NIH"
+    },
+    {
+      "question": "What should I do if I have a mild fever?",
+      "expected_keywords": [
+        "rest",
+        "fluids",
+        "paracetamol",
+        "hydration",
+        "doctor"
+      ],
+      "found_keywords": [
+        "rest",
+        "paracetamol"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "Mayo Clinic / CDC"
+    },
+    {
+      "question": "What should I do if someone is having a seizure?",
+      "expected_keywords": [
+        "safe",
+        "time",
+        "emergency",
+        "do not restrain",
+        "recovery position"
+      ],
+      "found_keywords": [
+        "emergency"
+      ],
+      "recall": 0.2,
+      "n_retrieved": 5,
+      "top_source": "NIMH / WHO"
+    },
+    {
+      "question": "When should chest pain be treated as an emergency?",
+      "expected_keywords": [
+        "emergency",
+        "call",
+        "911",
+        "pressure",
+        "immediately"
+      ],
+      "found_keywords": [
+        "emergency",
+        "call",
+        "911",
+        "pressure",
+        "immediately"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "American Heart Association"
+    },
+    {
+      "question": "What are the warning signs of a heart attack?",
+      "expected_keywords": [
+        "chest pain",
+        "arm",
+        "jaw",
+        "emergency",
+        "call"
+      ],
+      "found_keywords": [
+        "chest pain",
+        "arm",
+        "jaw",
+        "emergency",
+        "call"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "American Heart Association"
+    },
+    {
+      "question": "What are the signs of anaphylaxis?",
+      "expected_keywords": [
+        "epinephrine",
+        "throat",
+        "swelling",
+        "emergency",
+        "allergic"
+      ],
+      "found_keywords": [
+        "throat"
+      ],
+      "recall": 0.2,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What foods are high in iron?",
+      "expected_keywords": [
+        "red meat",
+        "leafy",
+        "legumes",
+        "fortified",
+        "vitamin C"
+      ],
+      "found_keywords": [
+        "red meat",
+        "leafy",
+        "legumes",
+        "fortified",
+        "vitamin C"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "How much water should I drink per day?",
+      "expected_keywords": [
+        "8 cups",
+        "2 litres",
+        "varies",
+        "activity",
+        "fluids"
+      ],
+      "found_keywords": [
+        "8 cups",
+        "2 litres"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "How can I improve my sleep?",
+      "expected_keywords": [
+        "schedule",
+        "screen",
+        "caffeine",
+        "routine",
+        "sleep hygiene"
+      ],
+      "found_keywords": [
+        "schedule",
+        "screen",
+        "caffeine",
+        "routine",
+        "sleep hygiene"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "CDC / NIH"
+    },
+    {
+      "question": "When should I see a doctor about a persistent cough?",
+      "expected_keywords": [
+        "3 weeks",
+        "blood",
+        "weight loss",
+        "fever",
+        "doctor"
+      ],
+      "found_keywords": [
+        "3 weeks",
+        "blood",
+        "weight loss",
+        "fever",
+        "doctor"
+      ],
+      "recall": 1.0,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What are signs of depression?",
+      "expected_keywords": [
+        "low mood",
+        "interest",
+        "sleep",
+        "fatigue",
+        "help"
+      ],
+      "found_keywords": [
+        "low mood",
+        "interest",
+        "sleep",
+        "fatigue"
+      ],
+      "recall": 0.8,
+      "n_retrieved": 5,
+      "top_source": "NIMH / WHO"
+    },
+    {
+      "question": "I feel like I don't want to live anymore. What should I do?",
+      "expected_keywords": [
+        "988",
+        "crisis",
+        "help",
+        "emergency",
+        "not alone"
+      ],
+      "found_keywords": [
+        "crisis",
+        "help",
+        "emergency"
+      ],
+      "recall": 0.6,
+      "n_retrieved": 5,
+      "top_source": "NIMH / WHO"
+    },
+    {
+      "question": "Can I take ibuprofen and paracetamol together?",
+      "expected_keywords": [
+        "pharmacist",
+        "consult",
+        "doctor",
+        "different",
+        "mechanism"
+      ],
+      "found_keywords": [
+        "pharmacist",
+        "doctor"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What does a high HbA1c result mean?",
+      "expected_keywords": [
+        "diabetes",
+        "blood sugar",
+        "6.5",
+        "glucose",
+        "doctor"
+      ],
+      "found_keywords": [
+        "6.5",
+        "glucose"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "CDC / NIH"
+    },
+    {
+      "question": "How often should I get a flu vaccine?",
+      "expected_keywords": [
+        "annual",
+        "yearly",
+        "flu shot",
+        "prevention",
+        "vaccine"
+      ],
+      "found_keywords": [
+        "annual",
+        "prevention"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "CDC"
+    },
+    {
+      "question": "At what age should I start screening for colon cancer?",
+      "expected_keywords": [
+        "45",
+        "50",
+        "colonoscopy",
+        "screening",
+        "doctor"
+      ],
+      "found_keywords": [
+        "45"
+      ],
+      "recall": 0.2,
+      "n_retrieved": 5,
+      "top_source": "Mayo Clinic / CDC"
+    },
+    {
+      "question": "Is it safe to take ibuprofen during pregnancy?",
+      "expected_keywords": [
+        "avoid",
+        "third trimester",
+        "paracetamol",
+        "doctor",
+        "pregnancy"
+      ],
+      "found_keywords": [
+        "paracetamol",
+        "doctor",
+        "pregnancy"
+      ],
+      "recall": 0.6,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What is a normal fever temperature for a child?",
+      "expected_keywords": [
+        "38",
+        "100.4",
+        "paracetamol",
+        "aspirin",
+        "doctor"
+      ],
+      "found_keywords": [
+        "38",
+        "100.4",
+        "aspirin"
+      ],
+      "recall": 0.6,
+      "n_retrieved": 5,
+      "top_source": "Mayo Clinic / CDC"
+    },
+    {
+      "question": "Why do elderly people fall more often?",
+      "expected_keywords": [
+        "balance",
+        "muscle",
+        "medications",
+        "vision",
+        "home safety"
+      ],
+      "found_keywords": [
+        "muscle"
+      ],
+      "recall": 0.2,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "I have a headache. What do I have?",
+      "expected_keywords": [
+        "cannot diagnose",
+        "many causes",
+        "professional",
+        "consult",
+        "information"
+      ],
+      "found_keywords": [],
+      "recall": 0.0,
+      "n_retrieved": 5,
+      "top_source": "MedlinePlus / NIH"
+    },
+    {
+      "question": "What drug should I take for my infection?",
+      "expected_keywords": [
+        "cannot prescribe",
+        "doctor",
+        "antibiotic",
+        "type of infection",
+        "professional"
+      ],
+      "found_keywords": [
+        "doctor",
+        "antibiotic"
+      ],
+      "recall": 0.4,
+      "n_retrieved": 5,
+      "top_source": "CDC"
+    }
+  ]
+}

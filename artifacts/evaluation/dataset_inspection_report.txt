@@ -1,0 +1,90 @@
+{
+  "dataset_name": "ruslanmv/ai-medical-chatbot",
+  "splits": {
+    "train": {
+      "n_rows": 256916,
+      "columns": [
+        "Description",
+        "Patient",
+        "Doctor"
+      ],
+      "dtypes": {
+        "Description": "str",
+        "Patient": "str",
+        "Doctor": "str"
+      },
+      "question_col": "Patient",
+      "answer_col": "Doctor",
+      "null_counts": {
+        "Description": 0,
+        "Patient": 0,
+        "Doctor": 0
+      },
+      "text_stats": {
+        "Description": {
+          "count_non_null": 256916,
+          "count_null": 0,
+          "count_empty": 0,
+          "char_min": 1,
+          "char_max": 1503,
+          "char_mean": 59.445912282613776,
+          "char_median": 56.0,
+          "word_min": 1,
+          "word_max": 272,
+          "word_mean": 10.052468511108689
+        },
+        "Patient": {
+          "count_non_null": 256916,
+          "count_null": 0,
+          "count_empty": 0,
+          "char_min": 1,
+          "char_max": 17735,
+          "char_mean": 436.4639454140653,
+          "char_median": 353.0,
+          "word_min": 1,
+          "word_max": 3672,
+          "word_mean": 83.59404630307182
+        },
+        "Doctor": {
+          "count_non_null": 256916,
+          "count_null": 0,
+          "count_empty": 0,
+          "char_min": 2,
+          "char_max": 11385,
+          "char_mean": 537.439805228168,
+          "char_median": 475.0,
+          "word_min": 1,
+          "word_max": 1867,
+          "word_mean": 89.33229538059132
+        }
+      },
+      "full_row_duplicates": 10378,
+      "duplicates_Patient": 10910,
+      "duplicates_Doctor": 14766,
+      "extremes_Patient": {
+        "shortest": [
+          ".",
+          "k"
+        ],
+        "longest": [
+          "this is very long I was diagnosed with HSV 2 about 3 years ago. I was in a long distance relationship with a female for a year already but had never met her. She has a huge problem with germs and ofcourse people getting tested for std’s. She was stern about this. I had led a very unhealthy sexual li …",
+          "Our married daughter in her early 40 s lives interstate, 12 plus hours from us & our 2 sons.12 months ago she sent me a text message requesting I have no further contact with her,her husband & our 3 young Grandsons she stated she is suffering Post Traumatic Disorder Syndrome equal to a soldier retur …"
+        ]
+      },
+      "extremes_Doctor": {
+        "shortest": [
+          "Hi",
+          "No"
+        ],
+        "longest": [
+          "HiThe first step in making the diagnosis of a blood clot is obtaining a history from the patient for family. Patients rarely are able to make their own diagnosis of a blood clot so the health-care professional will need to ask questions about what might be happening. If a blood clot or thrombus is a …",
+          "Hi welcome to HCMI have gone thru your query regarding putrid taste in mouth and difficulty in swallowing and I can understand your concern .It is an appreciable fact that even at age of ninety he is enjoying sound mental and physical health .What ever problems he is suffering are outcome of fauly l …"
+        ]
+      },
+      "long_questions_95pct": 12695,
+      "long_answers_95pct": 12837,
+      "empty_Patient": 0,
+      "empty_Doctor": 0
+    }
+  }
+}
